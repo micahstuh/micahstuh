@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @micahstuh.
+- 👀 I’m interested in kinematics and robotics.
+- 🌱 I’m currently learning web development.
+- 📫 Reach me at: micahstuh@gmail.com
